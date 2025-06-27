@@ -1,8 +1,8 @@
-# Decisions for Affordable and Social Housing
+# Decisions for Affordable and Social Housing (DASH)
 
 **Business Objective:** To enable policy makers, analysts and housing providers to make informed decisions that fuel $10M social housing decisions, to ensure the homeless and at-risk populations are housed, in Canada. 
 
-**Project Team and Organization:** University of Ottawa and Alliance for Homelessness Ottawa. I, Lakshika Paiva worked on this project from May to Dec 2024.
+**Project Team and Organization:** University of Ottawa and Alliance for Homelessness Ottawa. I worked on this project from May to Dec 2024.
 
 **Responsibilities:**
 
