@@ -1,8 +1,11 @@
 # Decisions for Affordable and Social Housing
 
 **Business Objective:** To enable policy makers, analysts and housing providers to make informed decisions that fuel $10M social housing decisions, to ensure the homeless and at-risk populations are housed, in Canada. 
+
 **Project Team and Organization:** University of Ottawa and Alliance for Homelessness Ottawa. I, Lakshika Paiva worked on this project from May to Dec 2024.
+
 **Responsibilities:**
+
 - Defined 25+ KPIs and metrics to enable decision-making for $10M+ social housing projects by defining number of individuals at-risk, housing stock and vacancies, waitlist and allocation rates, housing accommodation needs for 10+ Government policy makers.
 - Gathered stakeholder needs and requirements on social housing data gaps from 10+ Government policy makers, analysts and housing providers.
 - Designed a conceptual and logical data model to store 20K+ data using SQL Databases in Azure.
